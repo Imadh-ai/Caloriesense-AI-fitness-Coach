@@ -357,4 +357,4 @@ OPENWEATHER_API_KEY=your_openweather_api_key_here
 
 ## License
 
-[MIT](LICENSE) © heyisula
+[MIT](LICENSE) © Imadh-ai
